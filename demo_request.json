@@ -1,0 +1,37 @@
+{
+  "features_order": [
+    "Age",
+    "BP",
+    "Cholesterol",
+    "Max HR",
+    "ST depression",
+    "Number of vessels fluro",
+    "Exercise angina"
+  ],
+  "patients": [
+    {
+      "name": "Paciente A",
+      "features": [
+        60,
+        140,
+        250,
+        150,
+        1.2,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Paciente B",
+      "features": [
+        45,
+        120,
+        180,
+        170,
+        0.0,
+        0,
+        0
+      ]
+    }
+  ]
+}
