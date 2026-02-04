@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "name": "Paciente A",
+      "prediction": 1,
+      "probability": 0.7372617290979943,
+      "risk_level": "HIGH RISK (Disease)"
+    },
+    {
+      "name": "Paciente B",
+      "prediction": 0,
+      "probability": 0.06574952683634958,
+      "risk_level": "LOW RISK (Healthy)"
+    }
+  ]
+}
